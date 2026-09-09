@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Dennis 👋
 
-<!--
-**Denogcrypto/Denogcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automation & Data Systems Engineer** focused on building resilient data pipelines, event-driven architectures, and robust system integrations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Core Technical Stack
+
+- **Languages:** Python (Advanced), SQL, Bash / Shell Scripting
+- **Orchestration & Automation:** Apache Airflow, n8n, Event-Driven Architecture, Web Scraping
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Linux (Debian/Ubuntu), Git/GitHub
+- **Data & Architecture:** REST APIs, Microservices, Observability & System Monitoring, Data Integrity
+
+---
+
+### 🏆 Key Highlights
+
+- 🥈 **Top 2 — J.P. Morgan Hackathon:** Designed and developed a scalable, high-impact technical solution under tight production constraints.
+- ⚙️ **Production Systems:** Orchestrating enterprise-scale workflows and data pipelines with high availability.
+
+---
+
+### 🌐 Connect With Me
+
+- **Portfolio:** [portafolioweb2026.vercel.app](https://portafolioweb2026.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/dennis-ferraro-7ab03b241](https://www.linkedin.com/in/dennis-ferraro-7ab03b241/)
