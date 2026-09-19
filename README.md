@@ -35,3 +35,10 @@
 ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🤖 LLM Engineering, Agents & Automatización
+
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/MAKE-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Power Automate](https://img.shields.io/badge/POWER%20AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
