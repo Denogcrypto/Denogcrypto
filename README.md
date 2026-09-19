@@ -51,3 +51,12 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 🐳 DevOps & Contenedores
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/DOCKER%20COMPOSE-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## ☁️ Cloud
+
+![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
