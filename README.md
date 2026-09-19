@@ -43,3 +43,11 @@
 ![Make](https://img.shields.io/badge/MAKE-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/POWER%20AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/APACHE%20AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+## 🗄️ Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
