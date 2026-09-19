@@ -60,3 +60,7 @@
 
 ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+## 🛰️ Datos Satelitales
+
+![Sentinel](https://img.shields.io/badge/SENTINEL-003399?style=for-the-badge&logoColor=white)
+
