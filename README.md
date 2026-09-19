@@ -24,3 +24,8 @@
 
 - **Portfolio:** [portafolioweb2026.vercel.app](https://portafolioweb2026.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/dennis-ferraro-7ab03b241](https://www.linkedin.com/in/dennis-ferraro-7ab03b241/)
+
+---
+
+### 💻 Lenguajes de Programación
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
