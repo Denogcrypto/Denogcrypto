@@ -59,6 +59,7 @@
 ## ☁️ Cloud
 
 ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🛰️ Datos Satelitales
 
