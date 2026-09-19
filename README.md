@@ -42,3 +42,4 @@
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/MAKE-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/POWER%20AUTOMATE-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/APACHE%20AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
